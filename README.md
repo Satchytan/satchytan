@@ -13,12 +13,13 @@ Skills: Python / Java / C / C++ / Matlab / REACT / JS / HTML / CSS / Typescript 
 - ⚡ Fun fact: Apart from coding, I enjoy cycling and working on my car
 - 📫 How to reach me: Connect with me on LinkedIn at linkedin.com/in/satchytan or visit my personal website at satchytan.com
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/satchytan) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/satchytan/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/satchytan/)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satchytan)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=satchytan)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/satchytan) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/satchytan/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/satchytan/)
 
+<!--
+![GitHub streak stats](https://streak-stats.demolab.com/?user=satchytan)
+-->
 <!--
 **Satchytan/satchytan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
