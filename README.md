@@ -18,10 +18,9 @@ Skills: Python / Java / C / C++ / Matlab / REACT / JS / HTML / CSS / Typescript 
 
 
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satchytan)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub streak stats](https://streak-stats.demolab.com/?user=satchytan)
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satchytan)](https://github.com/anuraghazra/github-readme-stats) [GitHub streak stats](https://streak-stats.demolab.com/?user=satchytan)
+
 <!--
 **Satchytan/satchytan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
