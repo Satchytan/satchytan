@@ -3,7 +3,7 @@
 #### I’m a Software Engineer passionate about cars, web development, AI, finance and data science
 
 <br>
-<img alt="Coder GIF" height=900 width=1000 src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img alt="Coder GIF" height=450 width=500 src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 <br>
 Software Engineer with a passion for technology and a proven track record in engineering roles. My goal is to learn, grow and contribute my technical expertise and innovative thinking alongside a team dedicated to building tools that better our world.
 
